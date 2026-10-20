@@ -1,17 +1,17 @@
 # OpenStick hardware
 
-Enclosure, remote shell and accessory CAD, plus 3D models for the website.
+The OpenStick mainboard, enclosure, remote shell and accessories, plus 3D models for the website.
 
 Licensed under the [CERN Open Hardware Licence v2, Strongly Reciprocal](LICENSE).
 
-The mainboard is a manufacturing partner's certified Android TV design and is not part of this repo ([decision 0008](https://github.com/opensticktv/openstick/blob/main/decisions/0008-certified-base-open-layer.md)). Everything OpenStick designs around it is published here.
+OpenStick is open hardware you can buy ([decision 0009](https://github.com/opensticktv/openstick/blob/main/decisions/0009-open-hardware-locked-by-default.md)). The mainboard is designed here from the chip's certified reference design. Sold units are certified and ship locked so 4K streaming works; owners can unlock their own unit. If you build a board from these files yourself, it has no factory-installed streaming keys, so subscriptions play at 720p.
 
-Status: waiting on partner selection; the enclosure must fit the partner board's thermal and antenna constraints.
+Status: waiting on chip and design-house selection. Publishing the board depends on the chip vendor's terms.
 
 | Path | Contents |
 | --- | --- |
 | `enclosure/` | Onshape/Fusion exports: STEP for editing, STL/3MF for printing |
-| `kicad/` | Accessory boards, if any |
+| `kicad/` | Mainboard and accessory boards |
 | `models/` | GLB files for the website's exploded view |
 | `docs/` | Measurements, thermal and power test results |
 
