@@ -1,9 +1,0 @@
-part,spec,qty,note,link
-Orange Pi Zero 2W 2GB,"Allwinner H618, LPDDR4, Wi-Fi 5, BT 5.0, microSD",1,2 GB minimum for Chrome,http://www.orangepi.org/html/hardWare/computerAndMicrocontrollers/details/Orange-Pi-Zero-2W.html
-24-pin expansion board,"2x USB-A, 100M Ethernet, IR receiver, 3.5 mm audio, buttons",1,Required for IR and USB-A,
-microSD 32 GB A1,Boot and storage,1,No eMMC on this board,
-Mini HDMI male to HDMI male adapter,Short rigid adapter forming the plug,1,Check gender before buying,
-Wall adapter 5 V 2 A USB-C,Certified (UL/CE),1,TV USB power is not reliable,
-Heatsink 20 mm with thermal pad,Passive,1,,
-Enclosure,3D-printed two-part shell,1,See enclosure/,
-Remote,"CEC, 2.4 GHz air mouse, BLE or IR",1,See PRD Remote section,
